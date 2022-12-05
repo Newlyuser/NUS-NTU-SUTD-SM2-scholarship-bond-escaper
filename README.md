@@ -24,6 +24,8 @@ newlydark@proton.me
 可以附带你要举报的人的联系方式
 我们不会公开任何吹哨人的信息
 
+|姓名|奖学金届数|高就|
+|AA|SM2-13|MIT|
 
 引流：
 senior middle 2
