@@ -15,8 +15,7 @@ If you know any scholar (SM1, SM2) who left Singapore before finishing their bon
 Please drop an email to 
 <br>
 newlydark@proton.me
-<br
->
+<br>
 Please attach any proof about this scholar's behavior 
 
 You can attach the contact information of the escaped scholar 
@@ -31,9 +30,9 @@ We will try our best to protect your privacy,
 如果你认识任何逃避bond的SM系列奖学金得主或者其他新加坡奖学金的学生
 
 可发邮件至
-
+<br>
 newlydark@proton.me
-
+<br>
 请附带相关证据证明你的检举的真实性
 
 可以附带你要举报的人的联系方式
